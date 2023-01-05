@@ -40,6 +40,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  - jekyll-twitter-plugin
 #  - jekyll-feed
 # надо ещё твиттер прихуячить
 

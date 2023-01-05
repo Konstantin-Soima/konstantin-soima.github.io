@@ -10,6 +10,8 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 4.3.1"
 gem 'jekyll'
 
+gem 'jekyll-twitter-plugin'
+
 group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
