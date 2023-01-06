@@ -7,8 +7,6 @@ img: may9.jpg # Add image post (optional)
 tags: [politics,poland,russia] # add tag
 ---
 09.05.2022 na Wrocławskim Rynku odbył się wiec solidarności Rosjan z Ukrainą. Było to nasze pierwsze wydarzenie we Wrocławiu, wcześniej podobne akcje odbywały się w Krakowie, Warszawie i Poznaniu. 
-<iframe src="https://albumizr.com/a/DT-K" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
-
 ![](https://iili.io/HRUmh11.md.jpg)
 ![](https://iili.io/HRUyPOG.md.jpg)
 ![](https://iili.io/HRg3AlV.md.jpg)
