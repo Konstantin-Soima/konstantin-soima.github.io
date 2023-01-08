@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "They didn't want war": a memorial action for Putin's war victims in Ukraine
+title: "They didn't want war" a memorial action for Putin's war victims in Ukraine
 date: 2022-05-21 17:00:00 +0100
 description: 
 img: don-want-war.jpg
